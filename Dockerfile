@@ -1,3 +1,3 @@
-from mysql:lastest
+from tomcat:lastest
 MAINTAINER zui019
 
