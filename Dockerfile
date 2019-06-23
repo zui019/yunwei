@@ -1,2 +1,2 @@
-from tomcat
+from mysql
 MAINTAINER zui019
