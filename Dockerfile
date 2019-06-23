@@ -1,2 +1,3 @@
-from mysql
+from mysql:lastest
 MAINTAINER zui019
+
