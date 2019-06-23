@@ -1,3 +1,3 @@
-from tomcat:jdk8-adoptopenjdk-openj9
+from mysql:latest
 MAINTAINER zui019
 
