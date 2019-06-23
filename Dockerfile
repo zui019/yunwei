@@ -1,3 +1,3 @@
-from mysql:latest
+from nginx:stable-alpine-perl 
 MAINTAINER zui019
 
