@@ -1,2 +1,2 @@
-from nginx:1.17.0-alpine-perl 
+from ceph/daemon:latest-mimic
 MAINTAINER zui019
