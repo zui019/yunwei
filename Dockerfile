@@ -1,2 +1,2 @@
-from ceph/daemon:latest-mimic
+from ceph/daemon
 MAINTAINER zui019
